@@ -1,12 +1,10 @@
-## Hi there 👋
+## Hi I´m Camilo 👋 
 ### About me
 
 Hi, I'm Camilo Jaramillo! 
-<p><em>Python Backend Developer at <a href="http://platzi.com/home">Platzi</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20">
-<p><em>Master in Project Management at <a href="http://https://icesi.edu.co/home">UNICESI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20">
-<p><em>Mechanical Engineer at <a href="http://https://univalle.edu.co">UNIVALLE</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20">
-
-
+<p>Python Backend Developer at <a href="http://platzi.com/home">Platzi  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">
+</br>Master in Project Management at <a href="https://icesi.edu.co/home">UnIcesi  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">
+</br>Mechanical Engineer at <a href="https://www.univalle.edu.co/">UniValle  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">
 
 ```Python
 const porra = {
