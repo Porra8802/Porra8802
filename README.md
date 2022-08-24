@@ -1,4 +1,4 @@
-## Hi I´m Camilo 👋  
+## Hi I´m Camilo 💻🥦🦾
 
 <img align="right" frameBorder="0" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="440" height="340">
 
@@ -19,23 +19,9 @@ const porra = {
   passions: "soccer, tri, data, programming"
 }
 ```
+
 [![Linkedin Badge](https://img.shields.io/badge/-CamiloJaramillo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilo-jaramillo-076655b8/)](https://www.linkedin.com/in/camilo-jaramillo-076655b8/)
 [![Twitter Badge](https://img.shields.io/badge/-@cajving-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cajving)](https://twitter.com/cajving)
 [![Instagram Badge](https://img.shields.io/badge/-@cajv88-D32B5C?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/cajv88/)](https://instagram.com/cajv88)
 
 <!--
-**Porra8802/Porra8802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<h2> 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
