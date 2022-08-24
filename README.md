@@ -4,9 +4,9 @@
 
 
 ### About me
-<p align="center">
+<p align="left">
 Hi, I'm Camilo Jaramillo! 
- - Python Backend Developer at <a href="http://platzi.com/home">Platzi  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">
+<p> - Python Backend Developer at <a href="http://platzi.com/home">Platzi  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">
 </br> - Master in Project Management at <a href="https://icesi.edu.co/home">UnIcesi  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">
 </br> - Mechanical Engineer at <a href="https://www.univalle.edu.co/">UniValle  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">
 
@@ -19,9 +19,9 @@ const porra = {
   passions: "soccer, tri, data, programming"
 }
 ```
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
-[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam)
+[![Linkedin Badge](https://img.shields.io/badge/-CamiloJaramillo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilo-jaramillo-076655b8/)](https://www.linkedin.com/in/camilo-jaramillo-076655b8/)
+[![Twitter Badge](https://img.shields.io/badge/-@cajving-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cajving)](https://twitter.com/cajving)
+[![Instagram Badge](https://img.shields.io/badge/-@cajv88-D32B5C?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/cajv88/)](https://instagram.com/cajv88)
 
 <!--
 **Porra8802/Porra8802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
