@@ -1,6 +1,6 @@
 ## Hi I´m Camilo 👋  
 
-<img align="right" frameBorder="0" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" frameBorder="0" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="467" height="367">
 
 
 ### About me
